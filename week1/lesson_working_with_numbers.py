@@ -62,6 +62,5 @@
 # print(celsius_to_F(50))
 
 ##!-------------------------------------------------------------
-## need to come back and make the last 2 exercises
-    
-    
+# Gas Conversion
+# Write a function that will convert the price of fuel in Sydney, NSW, Australia (which is in AUD$/liter) to USD$/gal. Make the function take a parameter for the AU price and another for the US price. Print the price in USD/gal.
